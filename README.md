@@ -3,6 +3,7 @@ Kelompok 1
 - Faishal Fernando
 - Firyal Wishal Nabili
 - Kus Dwi Prasetyo
+- Achmad Sirajul Fahmi
 
 kontribusi dalam kode program ini adalah mencari sebuah data training untuk dijadikan caffemodels dalam algoritma MobileNetSSD
 Awal dari pemrograman ini adalah mencari sebuah dataset yang dimana diperuntukan agar data tersebut dapat dilatih menggunakan model mobilenetssd dan opencv,
